@@ -30,3 +30,4 @@ Hecha con **HTML, CSS y JavaScript puro**, y publicada con **GitHub Pages**.
 ## 💬 Autor
 👩‍💻 **Salma Elsar**  
 🔗 [https://github.com/Salmaelsar](https://github.com/Salmaelsar)
+- Nueva sección
