@@ -1,7 +1,7 @@
 # 📝 To-Do App
 
 Aplicación sencilla para crear, marcar y eliminar tareas.  
-Hecha con **HTML, CSS y JavaScript puro**, y publicada con **GitHub Pages**.
+Hecha con **HTML, CSS y publicada con **GitHub Pages**.
 
 ---
 
@@ -17,7 +17,6 @@ Hecha con **HTML, CSS y JavaScript puro**, y publicada con **GitHub Pages**.
 ## 🧠 Tecnologías usadas
 - HTML5  
 - CSS3  
-- JavaScript (DOM + LocalStorage)  
 - Git / GitHub / GitHub Pages  
 
 ---
